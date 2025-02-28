@@ -1,5 +1,4 @@
 ﻿using System;
-using SimTah.Documentation;
 using SimTah.Mods;
 namespace SimTah
 {
@@ -18,7 +17,7 @@ namespace SimTah
           Console.WriteLine($"Добро пожаловать в SimTah. Версия: {Ver}\n");
           Console.ResetColor();
 
-          Console.WriteLine("1) - Работа\n2) - Отдых\n3) - Документация\n4) - Выход из программы\n");
+          Console.WriteLine("1) - Работа\n2) - Отдых\n3) - Выход из программы\n");
 
           Console.ForegroundColor = ConsoleColor.Yellow;
           Console.Write("Выберите режим: ");
@@ -48,10 +47,6 @@ namespace SimTah
                 sleep.ModSleep();
                 break;
               case "3":
-                Doc doc = new Doc()!;
-                doc.Help();
-                break;
-              case "4":
                 Console.Clear();
                 Console.CursorVisible = false;
                 Console.ForegroundColor = ConsoleColor.Yellow;

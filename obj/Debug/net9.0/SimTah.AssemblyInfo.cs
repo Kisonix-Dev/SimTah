@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimTah")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31fb99aa96950f5007b6c6ff4f72d7ed87d3d15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+563f019fa5f987487ed1dd83ec6ebd81e8148122")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimTah")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimTah")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
