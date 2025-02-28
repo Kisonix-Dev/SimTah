@@ -1,0 +1,15 @@
+C:\Users\kison\github\SimTah\bin\Debug\net9.0\SimTah.exe
+C:\Users\kison\github\SimTah\bin\Debug\net9.0\SimTah.deps.json
+C:\Users\kison\github\SimTah\bin\Debug\net9.0\SimTah.runtimeconfig.json
+C:\Users\kison\github\SimTah\bin\Debug\net9.0\SimTah.dll
+C:\Users\kison\github\SimTah\bin\Debug\net9.0\SimTah.pdb
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\SimTah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\SimTah.AssemblyInfoInputs.cache
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\SimTah.AssemblyInfo.cs
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\SimTah.csproj.CoreCompileInputs.cache
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\SimTah.sourcelink.json
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\SimTah.dll
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\refint\SimTah.dll
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\SimTah.pdb
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\SimTah.genruntimeconfig.cache
+C:\Users\kison\github\SimTah\obj\Debug\net9.0\ref\SimTah.dll
